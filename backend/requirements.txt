@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+requests
+qdrant-client
+pypdf
+python-docx
+pandas
+openpyxl
+pillow
+pytesseract
+python-pptx
+python-multipart
+pymupdf
+pdfplumber
